@@ -1,0 +1,3 @@
+var radius = 3; // Assigning the value in radius
+var area = Math.PI * radius * radius; // calculating the area of radius
+console.log(area);
